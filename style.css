@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+.rectangle {
+  background-color: #ff4dc4;
+  text-align: center;
+  font-size: 30px;
+  width: 360px;
+}
+
+a {
+  width: 380px;
+  margin-bottom: 10px;
+}
